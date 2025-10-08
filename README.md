@@ -57,7 +57,7 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 - Define vehicle categories and add/remove vehicles.
 
 <div align="left">
-<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Config.png" alt="Config File Snippet" width="250px" />
+<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Config.png" alt="Config File Snippet" width="500px" />
 </div>
 
 ## PREVIEW
