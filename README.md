@@ -1,7 +1,7 @@
 # VEHICLE SPAWN MENU [STANDALONE]
 
 <p align="center">
-  <img src="./images/thumb.png" alt="thumb" width="300px>
+  <img src="./images/thumb.png" alt="thumb" width="300px />
 </p>
 
 ## DESCRIPTION
