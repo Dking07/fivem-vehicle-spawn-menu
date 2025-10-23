@@ -1,7 +1,7 @@
 # VEHICLE SPAWN MENU [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Thumb.png" alt="Vehicle Menu Thumbnail" width="300px" />
+<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Thumb.png" alt="Thumb" width="300px" />
 </div>
 
 ## DESCRIPTION
@@ -57,7 +57,7 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 - Define vehicle categories and add/remove vehicles.
 
 <div align="left">
-<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Config.png" alt="Config File Snippet" width="500px" />
+<img src="https://github.com/Dking07/fivem-vehicle-spawn-menu/blob/main/Config.png" alt="Config" width="500px" />
 </div>
 
 ## PREVIEW
