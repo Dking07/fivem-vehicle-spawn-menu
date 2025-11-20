@@ -1,7 +1,7 @@
 # VEHICLE SPAWN MENU [STANDALONE]
 
 <div align="center">
-<img src="./images/thumb.png" alt="thumb" width="300px" />
+<img src="https://github.com/user-attachments/assets/2e26dac6-35b4-46cd-9e4a-cc5689c697a0" width="300px" />
 </div>
 
 ## DESCRIPTION
@@ -34,6 +34,12 @@ The ultimate vehicle spawn menu for FiveM servers, designed to provide players w
 
 * [DOWNLOAD](https://dking.tebex.io/package/7065811)
 
+## HOW TO INSTALL
+
+* [Download](https://portal.cfx.re/assets/granted-assets) script;
+* Place it in the resources folder;
+* Add 'ensure dking_carmenu' (without quotes) to server.cfg.
+
 ## HOW IT WORKS
 
 1.  **Open the Menu**: Use the `/vehiclemenu` command or press `F2` (configurable) to open the interactive vehicle selection menu.
@@ -57,14 +63,14 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 - Define vehicle categories and add/remove vehicles.
 
 <div align="left">
-<img src="./images/config.png" alt="config" width="500px" />
+<img src="https://github.com/user-attachments/assets/933e8fab-d653-41c7-9586-b209f9e400a1" width="500px" />
 </div>
 
 ## PREVIEW
 
 <div align="left">
-<img src="./images/preview1.png" alt="Preview1" width="250px" />
-<img src="./images/preview2.png" alt="Preview2" width="250px" />
+<img src="https://github.com/user-attachments/assets/45648ff0-cfc2-4cba-a620-0671bc4344dd" width="250px" />
+<img src="https://github.com/user-attachments/assets/97656e5e-f298-4fae-b60b-72a7da23c909" width="250px" />
 </div>
 
 ## SUPPORT
@@ -73,9 +79,23 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 
 ## CHANGELOGS
 
-### 1.0.0
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
 
-* Initial Release
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.0</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Initial Release.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Translation system added.</li>
+    </ul>
+  </details>
+</details>
 
 ## COPYRIGHT
 
