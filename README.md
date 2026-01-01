@@ -99,4 +99,4 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 
 ## COPYRIGHT
 
-### BY [DKING](https://github.com/Dking07) 2025 ©
+### BY [DKING](https://github.com/Dking07) 2026 ©
