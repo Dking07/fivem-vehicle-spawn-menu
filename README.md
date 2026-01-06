@@ -95,6 +95,18 @@ The script is highly configurable through the `config/config.lua`, `config/notif
       <li>Translation system added.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Redesigned all frontend logic;</li>
+      <li><code>Config.Commands</code> moved to a separate file;</li>
+      <li>Added 2 new spawn modes, mode 2 spawns the vehicle in front of the player, and mode 3 allows you to position the vehicle freely before spawning it;</li>
+      <li>Adding option to define personalized text on the vehicle plate;</li>
+      <li>Added the option to define the color (primary and secondary) of the vehicle;</li>
+      <li>Add a configuration menu to choose between spaw modes, set plate text and change primary and secondary colors.</li>
+    </ul>
+  </details>
 </details>
 
 ## COPYRIGHT
