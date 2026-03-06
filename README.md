@@ -1,7 +1,7 @@
 # VEHICLE SPAWN MENU [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2e26dac6-35b4-46cd-9e4a-cc5689c697a0" width="300px" />
+<img src="https://github.com/user-attachments/assets/0b43cbd8-d6c0-4a23-88dc-4c4259a4945a" width="300px" />
 </div>
 
 ## DESCRIPTION
@@ -62,16 +62,19 @@ The script is highly configurable through the `config/config.lua`, `config/notif
 - Customize notification types and messages.
 - Define vehicle categories and add/remove vehicles.
 
-<div align="left">
-<img src="https://github.com/user-attachments/assets/933e8fab-d653-41c7-9586-b209f9e400a1" width="500px" />
-</div>
-
 ## PREVIEW
 
-<div align="left">
-<img src="https://github.com/user-attachments/assets/45648ff0-cfc2-4cba-a620-0671bc4344dd" width="250px" />
-<img src="https://github.com/user-attachments/assets/97656e5e-f298-4fae-b60b-72a7da23c909" width="250px" />
-</div>
+<details>
+  <summary><h3 style="display: inline;">Interface Showcase</h3></summary>
+
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/0b43cbd8-d6c0-4a23-88dc-4c4259a4945a" width="250px" />
+    <img src="https://github.com/user-attachments/assets/17804c98-6e92-4dda-bdf0-ca86860967a9" width="250px" />
+    <img src="https://github.com/user-attachments/assets/7b581d4f-cebb-455c-97d2-b73a944f5a01" width="250px" />
+    <img src="https://github.com/user-attachments/assets/b077f79c-11cc-4898-871f-4922548e6b73" width="250px" />
+  </div>
+
+</details>
 
 ## SUPPORT
 
@@ -105,6 +108,16 @@ The script is highly configurable through the `config/config.lua`, `config/notif
       <li>Adding option to define personalized text on the vehicle plate;</li>
       <li>Added the option to define the color (primary and secondary) of the vehicle;</li>
       <li>Add a configuration menu to choose between spaw modes, set plate text and change primary and secondary colors.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.4</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added extended mode to the menu (<code>Config.ExtendedMode</code>).</li>
+      <div align="left">
+        <img src="https://github.com/user-attachments/assets/b077f79c-11cc-4898-871f-4922548e6b73" width="250px" />
+      </div>
     </ul>
   </details>
 </details>
