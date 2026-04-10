@@ -120,6 +120,14 @@ The script is highly configurable through the `config/config.lua`, `config/notif
       </div>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.5</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changes in spawn logic;</li>
+      <li>Updated vehicles list.</li>
+    </ul>
+  </details>
 </details>
 
 ## COPYRIGHT
